@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <main>
+        <meta charset="UTF">
+        <title>Contact me</title>
+        <link rel="stylesheet" href="stylesheets/global.css">
+    </main>
+    <body>
+        <div class="title">
+            <h1>Kollin Labowski</h1>
+        </div>
+        <div class="navigation">
+            <a href="index.html">Home</a>
+            <a href="contact.html">Contact me</a>
+            <a href="experience.html">My background</a>
+            <a href="projects.html">My projects</a>
+        </div>
+        
+        <h2>Contact me</h2>
+
+        <div class="email">
+            <form onsubmit="send_email(address, message)">
+                <label for="address">Your email address:</label>
+                <input type="text" id="address" name="address" required>
+                <br>
+                <label for="message">Please write your email here:</label>
+                <br>
+                <textarea id="message" name="message" rows="20" cols="80" required></textarea>
+                <input type="submit" value="Send email">
+            </form>
+            <script type="text/javascript" src="scripting/send_email.js"></script>
+        </div>
+
+        <div class="footnote">
+            <p>This website was created by Kollin Labowski in 2022.</p>
+        </div>
+    </body>
+</html>
