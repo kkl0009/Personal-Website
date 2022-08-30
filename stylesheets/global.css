@@ -1,19 +1,23 @@
 body {
     font-family: Arial;
-    background-color: #6FDEF9;
+    background-color: #739ac9;
 }
 
 .title {
     text-align: left;
     margin-left: 20px;
+    font-size: 20px;
 }
 
 .navigation {
-    background-color: #A1B0AF;
+    background-color: #c5defa;
     overflow: hidden;
     margin-bottom: 10px;
     border-style: solid;
-    border-color: black;
+    border-width: 2px;
+    border-color: #b9d7fa;
+    /* border-color: black; */
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 
 .navigation a {
