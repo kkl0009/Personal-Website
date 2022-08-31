@@ -1,7 +1,7 @@
 .heading {
     margin-left: auto;
     margin-right: auto;
-    width: 1420px;
+    width: 1490px;
     margin-bottom: 20px;
     margin-top: 20px;
     background-color: #e6f1ff;
@@ -114,3 +114,23 @@
   }
 
 .dropdown:hover .content {display: block;}
+
+.titles {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+.capsule {
+    border-radius: 25px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    background-color: #e6f1ff;
+    padding: 22px;
+    font-size: 20px;
+    padding-bottom: 35px;
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+}
