@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Personal Website\\Personal-Website\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Personal Website\\Personal-Website\\skills.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:skills.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Personal Website\\Personal-Website\\experience.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:experience.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Personal Website\\Personal-Website\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Personal Website\\Personal-Website\\projects.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projects.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
@@ -23,6 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "skills.html",
+              "DocumentMoniker": "C:\\Personal Website\\Personal-Website\\skills.html",
+              "RelativeDocumentMoniker": "skills.html",
+              "ToolTip": "C:\\Personal Website\\Personal-Website\\skills.html",
+              "RelativeToolTip": "skills.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-21T20:39:34.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "experience.html",
+              "DocumentMoniker": "C:\\Personal Website\\Personal-Website\\experience.html",
+              "RelativeDocumentMoniker": "experience.html",
+              "ToolTip": "C:\\Personal Website\\Personal-Website\\experience.html",
+              "RelativeToolTip": "experience.html",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-21T20:33:36.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Personal Website\\Personal-Website\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Personal Website\\Personal-Website\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-21T20:31:36.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "projects.html",
               "DocumentMoniker": "C:\\Personal Website\\Personal-Website\\projects.html",
               "RelativeDocumentMoniker": "projects.html",
